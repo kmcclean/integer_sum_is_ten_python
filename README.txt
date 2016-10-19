@@ -1,0 +1,1 @@
+This runs a program that shows all the groupings of integers that equal a sum of ten. It has been built so that each pair only appears once, and
